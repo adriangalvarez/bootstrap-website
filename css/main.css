@@ -1,10 +1,14 @@
 .navbar{
     box-shadow: 2px 2px 5px #000;
-    opacity: .9;
+    opacity: 1;
 }
 
 .navbar .nav-item .nav-link{
     color: #FFF;
+}
+
+body{
+    padding-top: 70px;
 }
 
 .main-header{
